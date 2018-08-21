@@ -1,0 +1,13 @@
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\obj\Debug\CajaCordes.csprojAssemblyReference.cache
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\obj\Debug\CajaCordes.home.resources
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\obj\Debug\CajaCordes.FormRegistroBeneficiarios.resources
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\obj\Debug\CajaCordes.Properties.Resources.resources
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\obj\Debug\CajaCordes.csproj.GenerateResource.cache
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\obj\Debug\CajaCordes.csproj.CoreCompileInputs.cache
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\bin\Debug\CajaCordes.exe.config
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\bin\Debug\CajaCordes.exe
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\bin\Debug\CajaCordes.pdb
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\bin\Debug\MySql.Data.DLL
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\obj\Debug\CajaCordes.csproj.CopyComplete
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\obj\Debug\CajaCordes.exe
+C:\Users\Jordy\source\repos\CajaCordes\CajaCordes\obj\Debug\CajaCordes.pdb
