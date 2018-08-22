@@ -17,9 +17,9 @@ namespace CajaCordes
         {
             InitializeComponent();
 
-            txt_materno.Visible = false;
-            txt_nombre.Visible = false;
-            txt_paterno.Visible = false;
+            txt_materno.ReadOnly = true;
+            txt_nombre.ReadOnly = true;
+            txt_paterno.ReadOnly = true;
         }
 
         private void btn_buscar_titular_Click(object sender, EventArgs e)
@@ -35,9 +35,10 @@ namespace CajaCordes
                 if (db.existeTitular(txt_buscar_titular.Text))
                 {
                     MessageBox.Show("El titular si Exite, Favor llene sus datos", "Ok!", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    txt_materno.Visible = true;
-                    txt_nombre.Visible = true;
-                    txt_paterno.Visible = true;
+                    txt_buscar_titular.ReadOnly = true;
+                    txt_materno.ReadOnly = false;
+                    txt_nombre.ReadOnly = false;
+                    txt_paterno.ReadOnly = false;
                     db.CerrarConexion();
                 }
                 else
